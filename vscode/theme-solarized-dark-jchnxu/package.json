@@ -1,0 +1,15 @@
+{
+	"name": "theme-solarized-dark-jchnxu",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Solarized Dark Jchnxu",
+				"uiTheme": "vs-dark",
+				"path": "./themes/solarized-dark-jchnxu-color-theme.json"
+			}
+		]
+	}
+}
