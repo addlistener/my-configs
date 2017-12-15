@@ -64,7 +64,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": "bold",
+				// "fontStyle": "bold",
 				"foreground": "#268bd2"
 			}
 		},
@@ -296,6 +296,13 @@
 				"fontStyle": "",
 				"foreground": "#268BD2"
 			}
+		},
+		{
+			"name": "this.self",
+			"scope": "variable.language",
+			"settings": {
+				"foreground": "#268bd2"
+			}
 		}
 	],
 	"colors": {
@@ -523,7 +530,7 @@
 		"inputOption.activeBorder": "#3655b5",
 		"focusBorder": "#3655b5",
 
-		
+		// 重要！！！
 		"contrastActiveBorder": "#268bd2"
 	}
 }
